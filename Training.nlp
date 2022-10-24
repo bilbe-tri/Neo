@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=Training
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.10.0
+project.id=d951017f-cffb-4531-be89-989768798a44
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+project.is-open-test-settings-after-upload=true
+product.version=7.11.1
